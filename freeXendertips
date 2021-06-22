@@ -13,28 +13,28 @@
       "Admob_native": "ca-app-pub-3940256099942544/2247696110",
       "Admob_250": "ca-app-pub-3940256099942544/6300978111",
 	  
-      "Unity_id": "4179921",
-      "Unity_banner_Placement": "bannerunity",
-      "Unity_interstitial_Placement": "intervideo",
+      "Unity_id": "3337513",
+      "Unity_banner_Placement": "banner_app",
+      "Unity_interstitial_Placement": "inter_video",
 
-      "Appodeal_id": "d16c210844e6ab315bbe1f7050e7fd71e5a6ef376ceca622",
+      "Appodeal_id": "01234567890123457890145789",
       "Startapp_id": "206768024",
 
-      "Active_Ad_network": "Admob",
+      "Active_Ad_network": "admob startapp appodeal",
 
-      "Ad__1__Interstitial": "Admob",
-      "Ad__2__Interstitial": "Admob",
-      "Ad__3__Interstitial": "Admob",
-      "Ad__4__Interstitial": "Admob",
+      "Ad__1__Interstitial": "admob",
+      "Ad__2__Interstitial": "startapp",
+      "Ad__3__Interstitial": "admob",
+      "Ad__4__Interstitial": "appodeal",
 
-      "Ad__X__Banner": "Unity",
-      "Ad__X__Native": "appodeal",
-      "Ad__X__Rectangle": "appodeal",
+      "Ad__X__Banner": "admob",
+      "Ad__X__Native": "admob",
+      "Ad__X__Rectangle": "admob",
 
-      "Test_mode_unity"     : "no",
-      "Test_mode_appodeal"  : "no",
+      "Test_mode_unity"     : "yes",
+      "Test_mode_appodeal"  : "yes",
       "Debug_mode_facebook" : "yes",
-      "Show_help_toast"     : "no",
+      "Show_help_toast"     : "yes",
 
       "ClicksTo_showAd": "2",
       "Active_PackageName": "com.newfiletransfer.freeXendertips",
@@ -57,7 +57,7 @@
       "Gdpr_activate": "no",
       "Gdpr_id": "pub-3940256099942544",
 
-      "Cpa_activate": "no",
+      "Cpa_activate": "yes",
       "Cpa_text": "Claim Your Free Diamonds Here",
       "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
       "Cpa_url": "https://www.google.com/",
