@@ -8,10 +8,10 @@
       "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
       "HouseAds_icon": "https://i.imgur.com/P6eHtK0.jpg",
 
-      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "Admob_native": "ca-app-pub-3940256099942544/2247696110",
-      "Admob_250": "ca-app-pub-3940256099942544/6300978111",
+      "Admob_interstitial": "ca-app-pub-7471979429882394/9848353404",
+      "Admob_banner": "ca-app-pub-7471979429882394/7564986754",
+      "Admob_native": "ca-app-pub-7471979429882394/3029656005",
+      "Admob_250": "ca-app-pub-7471979429882394/1716574331",
 	  
       "Unity_id": "3337513",
       "Unity_banner_Placement": "banner_app",
@@ -20,12 +20,12 @@
       "Appodeal_id": "01234567890123457890145789",
       "Startapp_id": "206768024",
 
-      "Active_Ad_network": "admob startapp appodeal",
+      "Active_Ad_network": "admob",
 
       "Ad__1__Interstitial": "admob",
-      "Ad__2__Interstitial": "startapp",
+      "Ad__2__Interstitial": "admob",
       "Ad__3__Interstitial": "admob",
-      "Ad__4__Interstitial": "appodeal",
+      "Ad__4__Interstitial": "admob",
 
       "Ad__X__Banner": "admob",
       "Ad__X__Native": "admob",
